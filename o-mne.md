@@ -4,11 +4,26 @@ title: O mně
 permalink: /o-mne/
 ---
 
-##Toto je nadpis! Švadlenka Madlenka 
+## Toto je nadpis! Švadlenka Madlenka 
 
 Tady budu psát o svých krejčovských dobrodružstvích.
 
 ---
+
+```html
+<html><head>Ahoj</head></html>
+
+Tohle je code v odstavci: `code`.
+
+-Tohle
+-je
+-bodový
+-seznam
+
+1. Tohle
+2. je
+3. číslovaný
+4. seznam
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
