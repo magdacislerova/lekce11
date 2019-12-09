@@ -8,7 +8,7 @@ permalink: /o-mne/
 
 Tady budu psát o svých krejčovských dobrodružstvích.
 
-[Lisa] (https://sewoverit.co.uk/wp-content/uploads/2018/03/Busy-Blossom-Lilac-Rosie-Skirt.jpg)
+[Lisa] (C:\Users\magda\Magdalenka\Czechitas\Web_od_A_do_Z\lekce11\images\Busy-Blossom-Lilac-Rosie-Skirt.jpg)
 
 ---
 
