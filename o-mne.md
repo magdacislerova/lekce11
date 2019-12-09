@@ -12,6 +12,7 @@ Tady budu psát o svých krejčovských dobrodružstvích.
 
 ```html
 <html><head>Ahoj</head></html>
+```
 
 Tohle je code v odstavci: `code`.
 
