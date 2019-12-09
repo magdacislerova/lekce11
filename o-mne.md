@@ -8,6 +8,8 @@ permalink: /o-mne/
 
 Tady budu psát o svých krejčovských dobrodružstvích.
 
+https://sewoverit.co.uk/wp-content/uploads/2018/03/Busy-Blossom-Lilac-Rosie-Skirt.jpg
+
 ---
 
 ```html
