@@ -18,10 +18,10 @@ https://sewoverit.co.uk/wp-content/uploads/2018/03/Busy-Blossom-Lilac-Rosie-Skir
 
 Tohle je code v odstavci: `code`.
 
--Tohle
--je
--bodový
--seznam
+- Tohle
+- je
+- bodový
+- seznam
 
 1. Tohle
 2. je
