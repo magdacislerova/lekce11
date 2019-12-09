@@ -4,7 +4,7 @@ title: O mně
 permalink: /o-mne/
 ---
 
-## Toto je nadpis! Švadlenka Madlenka 
+## Švadlenka Madlenka 
 
 Tady budu psát o svých krejčovských dobrodružstvích.
 
