@@ -8,7 +8,7 @@ permalink: /o-mne/
 
 Tady budu psát o svých krejčovských dobrodružstvích.
 
-
+![foto] (assets\images\IMG_3665.JPG)
 
 ---
 
